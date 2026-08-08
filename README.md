@@ -5,7 +5,7 @@ The project is from: https://roadmap.sh/projects/server-stats
   ### Step 1: Clone the repo
   We need to put the repo inside our computers
   ```sh
-  git clone https://github.com/moneyballvl/Server_Perforamance/edit/main/
+  git clone https://github.com/moneyballvl/Server_Perforamance
   cd Server_Performance 
   ```
   ### Step 2: Make the script executable
